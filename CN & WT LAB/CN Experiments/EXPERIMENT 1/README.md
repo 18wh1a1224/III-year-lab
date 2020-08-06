@@ -12,4 +12,4 @@ i. character stuffing and iii. bit stuffing
 
 ### Output
 
-![output](Screenshort(28).jpg)
+![output](Screenshort(28).png)
