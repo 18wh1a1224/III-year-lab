@@ -19,7 +19,7 @@ character counting procedure
 ![output](charactercounting.png)
 
 ### step by step procedure of experiment
-character counting procedure
+bit stuffing procedure
 1. First we need to declare number of frames we required.
 2. Then we need to scan the frames.
 3. After scaning we need to find string length of the each frames.
@@ -30,3 +30,16 @@ character counting procedure
 ### Output
 
 ![output](bitstuffing.png)
+
+### step by step procedure of experiment
+character stuffing procedure
+1. First we need to declare number of frames we required.
+2. Then we need to scan the frames.
+3. After scaning we need to find string length of the each frames.
+4. Then printing the frames at sender.
+5. printing the Data Transmitted.
+6. After that printing the frames at receiver.
+
+### Output
+
+![output](characterstuffing.png)
