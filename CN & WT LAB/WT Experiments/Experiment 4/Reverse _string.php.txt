@@ -1,0 +1,10 @@
+<?php
+
+$a ="bharghavi";
+
+echo strrev($a);
+
+?>
+
+output:
+The reverse string of bharghavi is ivahgrahb
